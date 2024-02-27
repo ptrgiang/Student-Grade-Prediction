@@ -14,6 +14,7 @@ The Linear Regression model provided here is implemented using Python via the Sc
 ## Files
 1. `linear_regression.ipynb`: This Jupyter notebook contains the code for implementing the Linear Regression model, as well as the exploratory data analysis of the dataset.
 2. `student-mat.csv`: This contains the dataset used to train and test the machine-learning model.
+3. `student_model.pickle`: This contains the saved model after training.
 
 ## Getting Started
 You need Python 3.x and the following libraries installed to run the notebook:
