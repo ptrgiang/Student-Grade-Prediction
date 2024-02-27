@@ -26,8 +26,8 @@ You need Python 3.x and the following libraries installed to run the notebook:
 Clone this repo to your local machine and you can run the Jupyter notebook from the terminal.
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone https://github.com/ptrgiang/Student-Grade-Prediction.git
+cd Student-Grade-Prediction
 jupyter notebook linear_regression.ipynb
 ```
 
